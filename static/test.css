@@ -1,0 +1,35 @@
+.navbar-text {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    color: whitesmoke;
+    font-size: larger
+}
+.navbar-brand>img {
+    /* padding: 25px; */
+    margin-left: -40%;
+    width: 7%;
+    height: auto;
+}
+.force-bottom {
+    position:absolute;
+    bottom: 5%;
+    width: 100%;
+}
+
+.scroll {
+    overflow: auto;
+    height: 80%;
+    padding: 0;
+    margin-left: 37px;
+}
+.center{
+    /* text-align: center; */
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+    
+  
